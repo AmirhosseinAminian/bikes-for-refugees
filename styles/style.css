@@ -130,6 +130,8 @@ background-image: url("../images/header-bike.jpg");
   margin-bottom: 1rem;
   font-size: 2.5rem;
   color: white;
+  padding-top: 3rem;
+  padding-left: 1rem;
   
 }
 
@@ -138,8 +140,13 @@ background-image: url("../images/header-bike.jpg");
   margin-bottom: 2rem; 
   color: white;
   margin: auto;
+  padding-left: 1rem;
 }
-
+.btn1{
+  background-color: #c05326;
+  margin-left: 1rem;
+  margin-top: 3rem;
+}
 
 /* Headings */
 
