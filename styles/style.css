@@ -215,7 +215,7 @@ background-image: url("../images/header-bike.jpg");
 .article__read-more a {
   font-size: 0.85rem;
   font-weight: 700;
-  color: var(--orange-dark);
+  color: blue;
   text-decoration: none;
 }
 
