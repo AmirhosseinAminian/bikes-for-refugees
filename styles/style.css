@@ -195,7 +195,7 @@ background-image: url("../images/header-bike.jpg");
 
 .article__title-link {
   text-decoration: none;
-  color: var(--orange-dark);
+  color: blue;
 }
 
 .article__summary {
@@ -230,7 +230,7 @@ background-image: url("../images/header-bike.jpg");
 }
 
 .facebook-link {
-  color: var(--orange-dark);
+  color: blue;
 }
 
 /* Sidebar */
