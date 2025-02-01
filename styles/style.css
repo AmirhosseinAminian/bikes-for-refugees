@@ -191,6 +191,7 @@ background-image: url("../images/header-bike.jpg");
   margin-bottom: 0.5rem;
   font-size: 1rem;
   font-weight: 700;
+  margin-left: 1rem;
 }
 
 .article__title-link {
@@ -201,6 +202,7 @@ background-image: url("../images/header-bike.jpg");
 .article__summary {
   margin-top: 0;
   margin-bottom: 1rem;
+  margin-left: 1rem;
 }
 
 .article__thumbnail {
@@ -271,5 +273,8 @@ background-image: url("../images/header-bike.jpg");
   }
 }
 .art{
+  display: flex;
+}
+.article__content{
   display: flex;
 }
