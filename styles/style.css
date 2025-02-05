@@ -152,7 +152,12 @@ background-image: url("../images/header-bike.jpg");
   margin-top: 3rem;
   color: white;
 }
-
+.btn2{
+  background-color: #fff;
+  margin-left: 1rem;
+  color: #c05326;
+  
+}
 /* Headings */
 
 .heading-underline {
