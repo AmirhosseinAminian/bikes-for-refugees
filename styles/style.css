@@ -271,29 +271,22 @@ background-image: url("../images/header-bike.jpg");
   font-size: 0.85rem;
 }
 
-@media screen and (max-width: 768px) {
-  .header {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+@media screen and (min-width: 768px) {
+  .content {
+    flex-direction: row;
   }
 
-  .navigation__list {
-    flex-direction: column;
-    gap: 1rem;
-    margin-right: 0;
-    /* Remove large margin */
-    padding: 0;
-  }
-
-  .navigation__item {
-    text-align: center;
-  }
-
-  .btn1 {
-    margin-top: 1rem;
-    width: 100%;
-    max-width: 200px;
-    /* Make buttons responsive */
+  .main {
+    padding-right: 2rem;
   }
 }
+
+.art {
+  display: flex;
+}
+
+.article__content {
+  display: flex;
+}
+
+this is my css
