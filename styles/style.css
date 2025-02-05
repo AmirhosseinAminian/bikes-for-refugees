@@ -4,7 +4,12 @@
  * Lesson: 1
  * 
  */
-
+ nav a:hover {
+   color: red;
+   /* Change text color on hover */
+   text-decoration: underline;
+   /* Underline link on hover */
+ }
  :root {
    --grey-dark: #292b2c;
    --grey-light: #e4e4e4;
